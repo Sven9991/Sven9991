@@ -1,16 +1,13 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Svekke</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sven9991&label=Profile%20views&color=0e75b6&style=flat" alt="sven9991" /> </p>
 
-<!--
-**Sven9991/Sven9991** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
-Here are some ideas to get you started:
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="/https://sven9991.github.io" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://sven9991.github.io" height="30" width="40" /></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sven9991&show_icons=true&locale=en" alt="sven9991" /></p>
